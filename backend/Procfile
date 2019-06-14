@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT cartoon_clash_4653.wsgi:application
